@@ -23,15 +23,7 @@ This section contains projects that apply machine learning and statistical metho
 ## Bioinformatics
 Delve into projects that apply computational techniques to biological data. This includes sequence analysis, protein structure prediction, genomics, and more, leveraging tools like Biopython and various bioinformatics libraries.
 
-## Getting Started
-To get started with any of the projects, follow the instructions provided in the respective project directories. Each project includes a detailed README with setup instructions, dependencies, and usage examples.
-
-## Contributing
-We welcome contributions! If you have any improvements or new projects to add, please follow the contribution guidelines outlined in the `CONTRIBUTING.md` file.
-
 ## License
 This repository is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ---
-
-Feel free to customize this template further to suit your specific needs! Let me know if there's anything else you'd like to add or modify.
